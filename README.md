@@ -12,8 +12,8 @@ I'm a Developer which likes to help in Unique or Cool Projects  and which thinks
 [![Javascript](https://camo.githubusercontent.com/922b0fc17f6ff6c79ec18bf13a7467b25f1d8e510f1e15b8fb9b99b7daa63cc0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d4a61766173637269707426636f6c6f723d463744463145266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)]()
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-brightgreen)]()
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FirephoenixX02&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FirephoenixX02&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FirephoenixX02&count_private=true&theme=radical&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FirephoenixX02&langs_count=5&theme=radical)]()
 
 <!--
 **FirephoenixX02/FirephoenixX02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
