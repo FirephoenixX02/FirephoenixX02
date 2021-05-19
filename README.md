@@ -14,7 +14,6 @@ I'm a Developer which likes to help in Unique or Cool Projects  and which thinks
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FirephoenixX02&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FirephoenixX02&langs_count=5&theme=tokyonight)]()
-[![Profile View Counter](https://komarev.com/ghpvc/?username=FirephoenixX02)]()
 
 <!--
 **FirephoenixX02/FirephoenixX02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
