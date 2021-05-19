@@ -6,7 +6,7 @@ I'm a Developer which likes to help in Unique or Cool Projects  and which thinks
 - ⚡ Fun fact: Only a really small part of the Github Community has a Profile Readme.
 
 ### Tools which I use all the Time:
-https://img.shields.io/badge/Coding-Visual%20Studio%20Code-blue
+<img scr="https://img.shields.io/badge/Coding-Visual%20Studio%20Code-blue">
 https://img.shields.io/badge/Android%20Apps-Android%20Studio-brightgreen
 https://img.shields.io/badge/Publishing%20Code-Github-%23031729
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FirephoenixX02&count_private=true&theme=tokyonight&showicons=true)]()
