@@ -7,8 +7,9 @@ I'm a Developer which likes to help in Unique or Cool Projects  and which thinks
 
 ### Tools which I use all the Time:
 [![Visual Studio Code](https://img.shields.io/badge/Coding-Visual%20Studio%20Code-blue)]()
-https://img.shields.io/badge/Android%20Apps-Android%20Studio-brightgreen
-https://img.shields.io/badge/Publishing%20Code-Github-%23031729
+[![Android Studio](https://img.shields.io/badge/Android%20Apps-Android%20Studio-brightgreen)]()
+[![Github](https://img.shields.io/badge/Publishing%20Code-Github-%23031729)]()
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FirephoenixX02&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FirephoenixX02&langs_count=5&theme=tokyonight)]()
 
