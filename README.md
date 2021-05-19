@@ -3,7 +3,7 @@ I'm a Developer which likes to help in Unique or Cool Projects  and which thinks
 - 🔭 I’m currently working on Android Apps which I code in Kotlin.
 - 🌱 I’m currently learning Kotlin and Javascript
 - 📫 How to reach me: Check out my Website Link is on the left ;)
-- ⚡ Fun fact: Only a really small part of the Github Community has a Profile Readme.
+- ⚡ Fun fact: Only a small part of the Github Community has a Profile Readme.
 
 ### Tools which I use all the Time:
 [![Visual Studio Code](https://camo.githubusercontent.com/f58738635fa5a2bbb029480a38ed4876400ea00720ce8d0a003a940746d6a34f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d56697375616c25323053747564696f253230436f646526636f6c6f723d303037414343266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)]()
