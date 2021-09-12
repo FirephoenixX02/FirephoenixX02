@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a Developer who likes to help in Unique or Cool Projects  and which thinks that Open Source is the best thing since Pizza.(Exept for Videogames ;D)
 - 🔭 I’m currently working on Android Apps which I code in Kotlin.
-- 🌱 I’m currently learning Kotlin and Javascript
+- 🌱 I’m currently learning Java while coding my own Minecraft PvP Client
 - 📫 How to reach me: Check out my Website Link is on the left ;)
 - ⚡ Fun fact: Only a small part of the Github Community has a Profile Readme.
 
