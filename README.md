@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm a Developer who likes to help in Unique or Cool Projects  and which thinks that Open Source is the best thing since Pizza.(Exept for Videogames ;D)
-- 🔭 I’m currently working on my own Minecraft PvP Server.
+I'm a Developer from Germany and i'm currently working on my own BungeeCord Plugin for my Minecraft Server.
+- 🔭 I’m currently working on my own Minecraft Server.
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me: Check out my Website Link is on the left ;)
+- 📫 How to reach me: Check out my Website, Link is on the left
 - ⚡ Fun fact: Only a small part of the Github Community has a Profile Readme.
 
 ### Tools which I use all the Time:
