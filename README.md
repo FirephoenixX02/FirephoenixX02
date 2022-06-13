@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a Developer from Germany and i'm currently working on my own BungeeCord Plugin for my Minecraft Server.
+I'm a Developer from Germany and i'm currently working on multiple Projects, including my own Discord Bot.
 - 🔭 I’m currently working on my own Minecraft Server.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java and C(++)(#).
 - 📫 How to reach me: Check out my Website, Link is on the left
 - ⚡ Fun fact: Only a small part of the Github Community has a Profile Readme.
 
