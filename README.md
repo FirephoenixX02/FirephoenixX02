@@ -1,8 +1,8 @@
 ### I'm a freetime developer from Germany.
 - 🔭 I’m currently working on my own Minecraft Anticheat.
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me: DM me on Discord (NieGestorben#6618)
-- ⚡ Fun fact: Only a small part of the Github Community has a Profile Readme.
+- 📫 How to reach me: DM me on Discord (niegestorben)
+- ⚡ Fun fact: Mojang misspelled threshold in the minecraft source code.
 
 <!--
 ### Tools which I use all the Time:
