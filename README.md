@@ -1,6 +1,5 @@
 ### I'm a freetime developer from Germany.
-- 🔭 I’m currently working on my own Minecraft Anticheat.
-- 🌱 I’m currently learning Java.
+- 🔭 I’m currently working on my own Minecraft server software.
 - 📫 How to reach me: DM me on Discord (niegestorben)
 - ⚡ Fun fact: Mojang misspelled threshold in the minecraft source code.
 
