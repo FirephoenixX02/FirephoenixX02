@@ -3,7 +3,7 @@
 - 📫 How to reach me: DM me on Discord (niegestorben)
 - ⚡ Fun fact: Mojang misspelled threshold in the minecraft source code.
 
-### Consider leaving a donation if you want to support my work.
+#### Consider leaving a donation via Buy Me A Coffee if you want to support my work:
 <a href="https://www.buymeacoffee.com/niegestorben" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <!--
 ### Tools which I use all the Time:
